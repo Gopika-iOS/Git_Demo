@@ -10,12 +10,15 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let msg = "Test git"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("git test")
         print("git test2")
         print("git test")
         print("git test2")
+        print("msg")
     }
 
 
