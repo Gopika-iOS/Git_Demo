@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D4255B1F22DDDA4900156EDA /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4255B1E22DDDA4900156EDA /* Test1ViewController.swift */; };
 		D4B05C1922DD9003009C408C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B05C1822DD9003009C408C /* AppDelegate.swift */; };
 		D4B05C1B22DD9003009C408C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B05C1A22DD9003009C408C /* ViewController.swift */; };
 		D4B05C1E22DD9003009C408C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4B05C1C22DD9003009C408C /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D4255B1E22DDDA4900156EDA /* Test1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
 		D4B05C1522DD9003009C408C /* Git_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Git_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B05C1822DD9003009C408C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4B05C1A22DD9003009C408C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				D4B05C2422DD9021009C408C /* LaunchScreen.storyboard */,
 				D4B05C2722DD9022009C408C /* Info.plist */,
 				D4B05C1F22DD9003009C408C /* Git_Demo.xcdatamodeld */,
+				D4255B1E22DDDA4900156EDA /* Test1ViewController.swift */,
 			);
 			path = Git_Demo;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4255B1F22DDDA4900156EDA /* Test1ViewController.swift in Sources */,
 				D4B05C1B22DD9003009C408C /* ViewController.swift in Sources */,
 				D4B05C1922DD9003009C408C /* AppDelegate.swift in Sources */,
 				D4B05C2122DD9003009C408C /* Git_Demo.xcdatamodeld in Sources */,
