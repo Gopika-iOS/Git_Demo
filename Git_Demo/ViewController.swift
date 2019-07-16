@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         print("git test")
         print("git test2")
         print("msg")
+        
+        
+        print("Hiii")
+        print("Test")
     }
 
 
